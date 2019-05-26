@@ -1,4 +1,4 @@
-# Stable-Marrige-Problem
+# Stable-Marriage-Problem
 Stable Marriage by Using Gale-Shapley Algorithm C++
 1 Project goals
 This project aims to solve the Stable Marriage Algorithm, using the Gale-Shapley Deferred Accep-
